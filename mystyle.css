@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    
+    background-image: url("img2.jpg");
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: 1300px 1500px;
+}
+
+.h22{
+    color: rgb(244, 244, 176);
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    font-size: 30px;
+    cursor: pointer;
+}
+.myheading1{
+    color: rgb(244, 244, 176);
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    font-size: 60px;
+    font-family: 'Anton', sans-serif;
+    cursor: pointer;
+}
+
+.myheading1:hover{
+    color: rgb(226, 237, 11);
+    text-shadow: 2px 2px #000000;
+}
+
+.h22:hover{
+    color: rgb(226, 237, 11);
+    text-shadow: 2px 2px #000000;
+}
+button{
+    font-weight: bold;
+    border-radius: 30px;
+    border: 2px solid rgb(227, 238, 126);
+    background-color: rgb(240, 245, 78);
+    padding: 8px 20px;
+    margin-top: 20px ;
+    margin-left: 590px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: black;
+    color: rgb(240, 245, 78); ;
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.c1{
+    background-color: rgb(115, 169, 230);
+    height: 450px;
+}
+  
+.a1{
+    padding: 10px;
+    height: 342px;
+    width: 394px;
+    cursor: pointer;
+}
+
+img{
+    border: 2px solid black;
+}
+
